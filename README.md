@@ -8,8 +8,8 @@
 -|data
 -|work
 -README.MD
--xxx.ipynb
+-.ipynb
 ```
 ## 使用方式
-A：请直接在AI Studio上[运行本项目](https://aistudio.baidu.com/aistudio/projectdetail/1641259)，可以一键运行，最优模型也在里面
-B：仅在Baseline基础上，修改network.py文件中的部分代码，若不能运行，请直接复制network.py到基线模型
+# A：请直接在AI Studio上[运行本项目](https://aistudio.baidu.com/aistudio/projectdetail/1641259)，可以一键运行，最优模型也在里面
+# B：仅在Baseline基础上，修改network.py文件中的部分代码，若不能运行，请直接复制network.py到基线模型
